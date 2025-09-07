@@ -8,7 +8,7 @@
     {
       "version": "1.0.0",
       "changelog": "Initial release",
-      "sourceUrl": "https://github.com/julianoBRL/DiscordMusicPlugin/releases/download/{version}/music-plugin-{version}.jar",
+      "sourceUrl": "https://github.com/julianoBRL/DiscordMusicPlugin/releases/download/1.0.0/music-plugin-1.0.0.jar",
       "checksum": "sha256:4408fca38813f57f9a0cb7a176e09c702191e0180d5defc1314aab2e15e5580e",
       "timestamp": "2025-09-06T14:14:00Z"
     }
